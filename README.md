@@ -1,2 +1,10 @@
 # ExtCSGO
-EAC Bypassing ring3 external aimbot
+Example EAC ring3 bypass Project
+Aimbot with Fov/Smooth/AimKey
+
+#Usage
+1: Compile x64 Release
+2: Make ExtCSGO.exe Shortcut
+3: Edit Shortcut to ExtCSGO.exe "1" "180" "0" "2.0"
+those Shortcut Arguments Are:
+AimKey, AimFov AimSmooth CSGO Sensitivity
