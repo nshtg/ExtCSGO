@@ -16,7 +16,7 @@ Because its using CreateProcessA to get processhandle instead of OpenProcess.
 
 those Shortcut Arguments Are:
 
-AimKey, AimFov AimSmooth CSGO Sensitivity
+AimKey, AimFov, AimSmooth & CSGO Sensitivity
 
 4: Start Shortcut & Press Insert to start Aimbotting.
 
