@@ -3,8 +3,9 @@ Example EAC ring3 bypass Project
 Aimbot with Fov/Smooth/AimKey
 
 # Q
-Why Its bypassing? Because Its using CreateProcessA To Get Process Handle Instead of OpenProcess.
+Why Its bypassing? 
 
+Because its using CreateProcessA to get processhandle instead of OpenProcess.
 # Usage
 
 1: Compile x64 Release
