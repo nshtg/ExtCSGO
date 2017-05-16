@@ -13,3 +13,7 @@ Aimbot with Fov/Smooth/AimKey
 those Shortcut Arguments Are:
 
 AimKey, AimFov AimSmooth CSGO Sensitivity
+
+4: Start Shortcut & Press Insert to start Aimbotting.
+
+
